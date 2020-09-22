@@ -1,7 +1,7 @@
 /* Base */
 body {
-overflow-x: hidden;
-    line-height: 1.7;
+  overflow-x: hidden;
+   line-height: 1.7;
   color: rgba(0, 0, 0, 0.5);
   font-weight: 400;
   font-size: 1rem;
@@ -200,7 +200,7 @@ a {
   z-index: 99;
   width: 100%;
   padding: 20px 0;
-  margin-bottom: 113px;
+  margin-bottom: 103px;
   left: 0;
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
